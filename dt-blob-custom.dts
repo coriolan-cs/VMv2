@@ -3,7 +3,7 @@
 / {
    videocore {
      
-	  pins_2b1 { // Pi 2 Model B rev 1.0
+	 pins_2b1 { // Pi 2 Model B rev 1.0
          pin_config {
             pin@default {
                polarity = "active_high";
